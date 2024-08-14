@@ -48,11 +48,11 @@ Este projeto é uma aplicação backend de Lista de Tarefas (To-Do List), onde o
 
 ## Tecnologias Utilizadas
 
-- **Node.js**: Ambiente de execução para JavaScript no servidor.
-- **TypeScript**: Superset do JavaScript que adiciona tipagem estática.
-- **Express**: Framework web para Node.js.
-- **SQLite**: Banco de dados leve para armazenar as tarefas.
-- **Jest**: Framework de testes para garantir a qualidade do código.
+- ** **: 
+- ** **: 
+- ** **: 
+- ** **: 
+- ** **: 
 
 ## Instalação
 
